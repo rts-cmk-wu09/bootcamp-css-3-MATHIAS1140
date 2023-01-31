@@ -1,0 +1,42 @@
+.burger-menu-btn {
+    background-color: white;
+    border: none;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header>img {
+    display: block;
+    margin: auto;
+}
+
+nav {
+    display: flex;
+}
+
+h1{
+    padding-bottom: 5px;
+}
+
+.div-kommentar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-kommentar > p{
+    font-weight: 700;
+    padding-top: 50px;
+}
+
+.div-kommentar-btn{
+    background-color: white;
+    border: none;
+    font-weight: 700;
+    padding-top: 50px;
+}
