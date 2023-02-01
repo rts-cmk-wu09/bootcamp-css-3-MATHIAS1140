@@ -1,0 +1,17 @@
+.div-article {
+    display: flex;
+}
+
+.p-article{
+    padding-bottom: 30px;
+}
+
+.aside-article{
+    display: block;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.fik-du-læst{
+    display: flex;
+}

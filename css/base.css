@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: auto;
+    width: 1000px;
+}
+
+.annonce {
+    background-color: rgb(181, 181, 181);
+    height: 200px;
+}
+
+.img{
+    width: 350px;
+    height: 230px;
+}
+
+.section-billeder{
+    /* width: 350px; */
+    display: inline-block;
+    /* justify-content: space-evenly; */
+    /* flex-wrap: wrap; */
+    height: 900px;
+    margin: auto;
+   
+}
+
+.section-billeder h3{
+    width: 350px;
+}
